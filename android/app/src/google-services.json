@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839059749691",
+    "project_id": "petagonapp-flutter",
+    "storage_bucket": "petagonapp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839059749691:android:ede905fb7dc33cbda7951e",
+        "android_client_info": {
+          "package_name": "com.example.petagonv0_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839059749691-ktq04s7c0120dr1a99n3hnm7klcugmek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRC7j0ZN0L5l34QeejH9rniyyVcqcnkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839059749691-ktq04s7c0120dr1a99n3hnm7klcugmek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
